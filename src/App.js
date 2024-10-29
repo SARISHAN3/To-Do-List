@@ -30,9 +30,8 @@ function App() {
       }
     };
 
-    setTimeout(() => {
-      fetchItems();  // Correct async function call
-    }, 2000);
+    fetchItems();  // Correct async function call
+  
   }, []);
 
   const addItem = async (item) => {
