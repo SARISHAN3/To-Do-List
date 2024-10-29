@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": true,
+      "item": "html"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "item": "css"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "java"
+    },
+    {
+      "id": "5",
+      "checked": true,
+      "item": "javascript"
+    },
+    {
+      "id": "6",
+      "checked": true,
+      "item": "react js"
+    }
+  ]
+}
